@@ -84,6 +84,7 @@ function preload(){
 
   
   drawSprites();
+     restartSprites();
     }
 
     function spawnRocks() {
